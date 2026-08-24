@@ -56,17 +56,16 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏭 **[MPAE](https://github.com/utsanakorn/mpae)** | AI/ML anomaly-detection service for manufacturing sensor data — Isolation Forest + GPT-5-mini insights | `FastAPI` `scikit-learn` `Azure AI Foundry` `PostgreSQL` |
-| 🗑️ **[BinCast](https://github.com/utsanakorn/bincast)** | Smart waste-bin IoT system with real-time sensor data and cloud backend | `Azure Functions` `Table Storage` `GitHub Actions` |
-| 🎓 **[MentorLink](https://github.com/utsanakorn/mentorlink)** | Two-sided mentor/student booking marketplace — built at MEGA HACKS hackathon | `React` `Express.js` `TypeScript` `Tailwind` |
-| 🏠 **[Hangout Hub](https://github.com/utsanakorn/hangout-hub)** | Virtual social hangout app with avatars, rooms & voice chat — built at Cursor AI Hackathon | `React` `Supabase` `Vercel` |
-| 👗 **[Fashion Image Retrieval](https://github.com/utsanakorn/fashion-retrieval)** | Visual search engine using YOLOv5 + ResNet50, 85% KNN match accuracy | `PyTorch` `Flask` `OpenCV` |
+| 🏭 **[MPAE]([https://github.com/utsanakorn/mpae](https://utsanakorn.github.io/mpae-sait-capstone/)** | AI/ML anomaly-detection service for manufacturing sensor data — Isolation Forest + GPT-5-mini insights | `FastAPI` `scikit-learn` `Azure AI Foundry` `PostgreSQL` |
+| 🗑️ **[BinCast](https://utsanakorn.github.io/bincast-project/)** | Smart waste-bin IoT system with real-time sensor data and cloud backend | `Azure Functions` `Table Storage` `GitHub Actions` |
+| 🎓 **[MentorLink](https://github.com/akkanova/hackaton-2026)** | Two-sided mentor/student booking marketplace — built at MEGA HACKS hackathon | `React` `Express.js` `TypeScript` `Tailwind` |
+| 🏠 **[Hangout Hub](https://github.com/yanisasri/cursor-ai-hackathon)** | Virtual social hangout app with avatars, rooms & voice chat — built at Cursor AI Hackathon | `React` `Supabase` `Vercel` |
+| 👗 **[Fashion Image Retrieval](https://gitlab.com/missyoumist/punpromotion/-/tree/master?ref_type=heads)** | Visual search engine using YOLOv5 + ResNet50, 85% KNN match accuracy | `PyTorch` `Flask` `OpenCV` |
 
-> 💡 Replace the links above with your real repo URLs once you rename/organize them.
 
 ---
 
 ### 📫 Reach Me
 - 📧 utsanakornchin@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/utsanakorn-chinkonglar)
-- 📍 Calgary, AB, Canada
+- 💼 [LinkedIn](https://linkedin.com/in/utsanakorn)
+- 📍 Canada
