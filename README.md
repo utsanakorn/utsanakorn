@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer — Full-Stack, AI/ML, Cloud & UX/UI</h3>
 
 <p align="center">
-  Final-semester Software Development student at SAIT (Calgary) 🇨🇦, building AI/ML services, full-stack apps, and cloud infrastructure.
-  Background in Computer Science from Thailand + hands-on QA/testing experience.
+  Software Developer in Canada, building AI/ML services, full-stack apps, and cloud infrastructure.
+  Background in B.Sc. Computer Science from Thailand + hands-on QA/testing experience.
 </p>
 
 <p align="center">
