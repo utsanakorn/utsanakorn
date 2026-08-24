@@ -56,7 +56,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏭 **[MPAE]([https://github.com/utsanakorn/mpae](https://utsanakorn.github.io/mpae-sait-capstone/)** | AI/ML anomaly-detection service for manufacturing sensor data — Isolation Forest + GPT-5-mini insights | `FastAPI` `scikit-learn` `Azure AI Foundry` `PostgreSQL` |
+| 🏭 **[MPAE](https://utsanakorn.github.io/mpae-sait-capstone/)** | AI/ML anomaly-detection service for manufacturing sensor data — Isolation Forest + GPT-5-mini insights | `FastAPI` `scikit-learn` `Azure AI Foundry` `PostgreSQL` |
 | 🗑️ **[BinCast](https://utsanakorn.github.io/bincast-project/)** | Smart waste-bin IoT system with real-time sensor data and cloud backend | `Azure Functions` `Table Storage` `GitHub Actions` |
 | 🎓 **[MentorLink](https://github.com/akkanova/hackaton-2026)** | Two-sided mentor/student booking marketplace — built at MEGA HACKS hackathon | `React` `Express.js` `TypeScript` `Tailwind` |
 | 🏠 **[Hangout Hub](https://github.com/yanisasri/cursor-ai-hackathon)** | Virtual social hangout app with avatars, rooms & voice chat — built at Cursor AI Hackathon | `React` `Supabase` `Vercel` |
