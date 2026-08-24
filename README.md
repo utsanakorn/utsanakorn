@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Currently
-- 🎓 Graduating from SAIT's Software Development program (Calgary, AB)
+- 🎓 Graduating from SAIT's Software Development program (Canada)
 - 🛠️ Building **MPAE** — an AI/ML manufacturing analytics engine (capstone project)
 - 🌱 Learning: cloud-native architecture & event-driven AI pipelines
 
